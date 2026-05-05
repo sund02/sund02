@@ -8,6 +8,7 @@
 ![Java Jakarta](https://img.shields.io/badge/Java%20Jakarta-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Jafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sund02&show_icons=true&theme=dark&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sund02&layout=compact&theme=dark)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sund02&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sund02&theme=github_dark" height="170" />
+</p>
