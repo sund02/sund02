@@ -13,8 +13,8 @@
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sund02&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sund02&layout=compact&theme=dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sund02&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sund02&theme=github_dark" height="170" />
 </p>
 
 ## Note
